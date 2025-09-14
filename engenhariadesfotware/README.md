@@ -23,3 +23,6 @@ Banco de Dados 2/2025 (Engeharia de Software)
    **Segurança vs. Usabilidade**  
    Aumentar a segurança pode tornar o uso menos prático para o usuário.  
    Exemplo: exigir autenticação em dois fatores em cada acesso aumenta a proteção, mas pode irritar usuários que precisam acessar o sistema várias vezes ao dia.
+
+4. UML Barbearia
+   
