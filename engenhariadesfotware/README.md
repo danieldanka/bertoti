@@ -30,7 +30,7 @@ Banco de Dados 2/2025 (Engeharia de Software)
 
 4. UML Barbearia
    
-<img width="1102" height="296" alt="UML Barbearia" src="https://github.com/user-attachments/assets/39a67b29-84ee-4448-885c-a7c69ea95171" />
+   <img width="1055" height="248" alt="UML Barbearia" src="https://github.com/user-attachments/assets/0d1de414-7c62-46ce-98ad-e9a26f30c0df" />
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
