@@ -32,7 +32,7 @@ R: O texto diferencia claramente programação, que é o ato imediato de escreve
 
 4. UML Barbearia
    
-   <img width="1055" height="248" alt="UML Barbearia" src="https://github.com/user-attachments/assets/0d1de414-7c62-46ce-98ad-e9a26f30c0df" />
+   <img width="899" height="531" alt="uml barb" src="https://github.com/user-attachments/assets/101a1b8e-e0cb-4159-b4fa-70a6e5595f80" />
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
